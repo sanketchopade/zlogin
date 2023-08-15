@@ -1,0 +1,5 @@
+API_Key = "xxxxxxxxxxxxxxxx"
+API_Secret = "0xxxxxxxxxxxxxxxxxxxx"
+ZERODHA_USER_ID = "ZW4001"
+ZERODHA_USER_PWD = "XxxxxxXXxxxx"
+ZERODHA_TOTP_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxx"
