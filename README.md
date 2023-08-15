@@ -34,3 +34,8 @@ This step will ensure we have all the needed modules installed in the newly crea
 
 You should now be able to run the code to login to your Zerodha account.
 $ python login.py
+If login is successful, you should see your access token generated. Also your token will be saved in the file
+$ zlogin/files/ZW4001_token.15_08_2023.json
+
+Next, you can use order_api to buy, sell, see margin money, get current ltp of stocks, options and more.
+$ python order_api.py
